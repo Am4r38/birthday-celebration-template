@@ -44,7 +44,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
     },
     {
       icon: "✨",
-      text: "Have a look at it, Kiddo ji",
+      text: "Have a look at it, my lil kiddo",
       type: "announcement",
     },
   ];
