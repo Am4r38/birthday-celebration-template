@@ -116,7 +116,7 @@ function App() {
         <section className="teaser">
           <h2 id="teaserHeading">
             {birthdayReached
-              ? "💖 Ready for your surprise! 💖"
+              ? "💖 Sorry IRL gift ni de saka but are u ready? 💖"
               : "✨ A special celebration awaits you at midnight... ✨"}
           </h2>
           <p className="teaser-hint">Something magical is about to unfold 💫</p>
